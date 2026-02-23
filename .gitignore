@@ -1,0 +1,26 @@
+# .NET Core / .NET 5+
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.userbit
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# Build and Log Files
+build_diag.txt
+msbuild.log
+debug.txt
+*.bak
+*.tmp
+global.json.backup
+
+# User-specific
+.antigravity/
+.gemini/
